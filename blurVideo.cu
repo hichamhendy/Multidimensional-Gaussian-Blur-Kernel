@@ -1,5 +1,5 @@
 
-#include "convertRGBToGrey.hpp"
+#include "blurVideo.hpp"
 
 /*
  * CUDA Kernel Device code
